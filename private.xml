@@ -1,5 +1,12 @@
 <?xml version="1.0"?>
 <root>
+    <appdef>
+        <appname>WEBSTORM</appname>
+        <equal>com.jetbrains.WebStorm</equal>
+    </appdef>
+    
+    <not>WEBSTORM</not>
+    
   <item>
     <name>Custom direction keys</name>
     <identifier>private.custom_direction_keys</identifier>
